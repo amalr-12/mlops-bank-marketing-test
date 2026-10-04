@@ -10,4 +10,4 @@ monitoring/*.csv
 monitoring/*.json
 monitoring/*.html
 gate_report.md
-.env
+.env__pycache__/
