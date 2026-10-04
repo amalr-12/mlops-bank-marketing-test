@@ -11,3 +11,6 @@ monitoring/*.json
 monitoring/*.html
 gate_report.md
 .env__pycache__/
+.envdata/raw/
+data/processed/
+models/*.cbm
